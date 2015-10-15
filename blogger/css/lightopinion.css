@@ -82,7 +82,7 @@ margin-bottom:0;
 text-align: center;
 }
 .header-title a{
-font-size:48px;
+font-size:2rem;
 font-weight:700;
 text-decoration:none;
 color:#000000;
@@ -118,7 +118,7 @@ color:#000000;
 text-decoration:none;
 }
 .header-nav a:hover{
-color:#ff8c00;
+color:#EA141F;
 }
 /*	 メニューバー
 --------------------------------------*/
@@ -329,7 +329,7 @@ font-size:18px;
 color:#000000;
 }
 .article-list-title a:hover{
-color:#ff8c00;
+color:#EA141F;
 text-decoration:none;
 }
 /*記事一覧の公開日&#12289;カテゴリ名  */
@@ -374,7 +374,7 @@ transition:0.3s;
 }
 #related-posts a:hover{
 color:#fff;
-background:#ff8c00;
+background:#EA141F;
 }
 #related-posts h2{
 margin-top: 10px;
@@ -419,12 +419,12 @@ float: left;
 #blog-pager a:hover{
 text-decoration:none;
 color:#fff;
-background:#ff8c00;
+background:#EA141F;
 }
 #blog-pager .pagecurrent{
 font-weight:bold;
 color: #fff;
-background:#ff8c00;
+background:#EA141F;
 }
 #blog-pager .pages{border:none;}
 /*   前の投稿 次の投稿
