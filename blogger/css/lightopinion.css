@@ -70,7 +70,7 @@ max-width:100%;
 .header {
 margin:10px auto 20px;
 /*padding-left:20px;*/
-padding-top:10px;
+/*padding-top:10px;*/
 width:950px;
 }
 /*   ブログタイトル
@@ -187,6 +187,7 @@ color: #ffffff; /* サブメニュー項目にマウスが載ったときの文�
 /*   メニューバーその2
 ---------------------------------------------*/
 #menu{
+  background-color: #364956;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
