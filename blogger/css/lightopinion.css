@@ -187,7 +187,6 @@ color: #ffffff; /* サブメニュー項目にマウスが載ったときの文�
 /*   メニューバーその2
 ---------------------------------------------*/
 #menu{
-  background-color: #364956;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
@@ -202,13 +201,13 @@ color: #ffffff; /* サブメニュー項目にマウスが載ったときの文�
 #menu li a{
   display: block;
   padding: 12px 0 10px;
-  background: #333;
+  background: #364956;
   color: #fff;
   text-align: center;
   text-decoration: none;
 }
 #menu li a:hover{
-  background: #444;
+  background: #EA141F;
 }
 #toggle{ 
  display: none;
@@ -237,7 +236,8 @@ color: #ffffff; /* サブメニュー項目にマウスが載ったときの文�
     position: relative;
     padding: 12px 0 10px;
     border-bottom: 1px solid #444;
-    color: #fff;
+    background: #364956;
+    color: white;
     text-align: center;
     text-decoration: none;
   }
