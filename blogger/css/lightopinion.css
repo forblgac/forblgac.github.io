@@ -79,9 +79,10 @@ width:950px;
 font-size:26px;
 margin-top:0;
 margin-bottom:0;
+text-align: center;
 }
 .header-title a{
-font-size:26px;
+font-size:48px;
 font-weight:700;
 text-decoration:none;
 color:#000000;
