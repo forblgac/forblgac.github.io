@@ -68,10 +68,10 @@ max-width:100%;
 /*   ヘッダー
 --------------------------------------- */
 .header {
-/*margin:10px auto 20px;*/
+margin:10px auto 20px;
 /*padding-left:20px;*/
 /*padding-top:10px;*/
-/*width:950px;*/
+width:950px;
 text-align: center;
 }
 /*   ブログタイトル
@@ -94,11 +94,6 @@ text-decoration:none;
 }
 .header-title a:visited{
 color:#000000;
-}
-/*   ブログ上部のバー    */
-------------------------------------------- */
-.topbar {
-  background-color: #364956;
 }
 /*   ブログ説明   */
 .header-description p{
@@ -136,7 +131,7 @@ min-width: 630px; /* メインメニュー全部が収まる最低横幅 */
 }
 div.menubar ul#menu {
 z-index:100;
-/*margin: 0px 0px 0px 15px; /* メニューバー外側の余白 */
+margin: 0px 0px 0px 15px; /* メニューバー外側の余白 */
 padding: 0px; /* メニューバー内側の余白 */
 height: 40px; /* メニューバーの高さ */
 }
@@ -198,7 +193,6 @@ color: #ffffff; /* サブメニュー項目にマウスが載ったときの文�
   max-width: 960px;
   margin: 0 auto;
   padding: 0;
-  background-color: #364956;
 }
 #menu li{
   display: block;
@@ -603,7 +597,6 @@ margin:0 auto;
 .header{
 width:auto;
 margin:0 auto;
-background-color: #B6C9CF;
 }
 .main-outer{
 width:auto;
